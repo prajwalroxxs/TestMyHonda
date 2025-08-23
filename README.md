@@ -1,90 +1,79 @@
-🚗 Honda Test Drive Booking System
+# 🚗 **Honda Test Drive Booking System**
 
-A full-stack Honda Test Drive Booking System that allows users to schedule test drives at different branches, while providing managers with a dedicated portal to manage bookings, collect feedback, and analyze sales trends.
+A full-stack **Honda Test Drive Booking System** that allows users to schedule test drives at different branches, while providing managers with a dedicated portal to manage bookings, collect feedback, and analyze sales trends.  
 
-✨ Features
-🔹 User Portal
+---
 
-📅 Book test drives by selecting date and time slots
+## ✨ **Features**
 
-🏢 Choose from 3 branches:
+### 🔹 **User Portal**
+- 📅 Book test drives by selecting **date** and **time slots**  
+- 🏢 Choose from 3 branches:  
+  - **Noida**  
+  - **Gurgaon**  
+  - **Central Delhi**  
+- 📩 Receive confirmation once booking is approved by the branch manager  
 
-Noida
+### 🔹 **Manager Portal**
+- ✅ View and confirm test drive bookings  
+- ⭐ Request feedback from users (7 experience questions, rating scale: 1–5 stars)  
+- 📊 View analytics dashboard with graphs/charts showing:  
+  - Cars most frequently sold  
+  - Sales percentage breakdown  
 
-Gurgaon
+---
 
-Central Delhi
+## 🛠️ **Tech Stack**
+- **Frontend:** React (Vite / Next.js depending on setup)  
+- **Backend:** Node.js + Express (or FastAPI if Python backend used)  
+- **Database:** MongoDB / OracleDB (configurable)  
+- **Charts/Graphs:** Chart.js / Recharts  
+- **Hosting:** GitHub Codespaces / Vercel / Netlify  
 
-📩 Receive confirmation once booking is approved by the branch manager
+---
 
-🔹 Manager Portal
+## 🚀 **Getting Started**
 
-✅ View and confirm test drive bookings
+### 1️⃣ Clone the Repository  
+```bash
 
-⭐ Request feedback from users (7 experience questions, rating scale: 1–5 stars)
 
-📊 View analytics dashboard with graphs/charts showing:
-
-Cars most frequently sold
-
-Sales percentage breakdown
-
-🛠️ Tech Stack
-
-Frontend: React (Vite / Next.js depending on setup)
-
-Backend: Node.js + Express (or FastAPI if Python backend used)
-
-Database: MongoDB / OracleDB (configurable)
-
-Charts/Graphs: Chart.js / Recharts
-
-Hosting: GitHub Codespaces / Vercel / Netlify
-
-🚀 Getting Started
-1️⃣ Clone the Repository
 git clone https://github.com/prajwalroxxs/TestMyHonda.git
 cd TestMyHonda
+```
 
-2️⃣ Install Dependencies
+## 2️⃣ **Install Dependencies**
+```bash
 npm install
+```
 
-3️⃣ Run the Development Server
+## 3️⃣ **Run the Development Server**
+``` bash
 npm run dev
+```
 
+## 4️⃣ **Open in Browser**
+```bash
+👉 http://localhost:3000
+ (CRA)
+```
 
-or (if using Create React App):
+## 📊 **Manager Dashboard Preview**
+- ✅ **Booking confirmations**  
+- ⭐ **Feedback collection**  
+- 📊 **Sales analytics** (cars sold, % distribution)  
 
-npm start
+---
 
-4️⃣ Open in Browser
+## 📌 **Future Enhancements**
+- 🔐 **User authentication & manager login system**  
+- 📱 **Mobile-responsive UI**  
+- 📧 **Email/SMS notifications for booking confirmations**  
+- 🤖 **AI-powered feedback sentiment analysis**  
 
-Navigate to:
-👉 http://localhost:5173 (Vite)
-👉 http://localhost:3000 (CRA)
+---
 
-📊 Manager Dashboard Preview
-
-Booking confirmations
-
-Feedback collection
-
-Sales analytics (cars sold, % distribution)
-
-📌 Future Enhancements
-
-🔐 User authentication & manager login system
-
-📱 Mobile-responsive UI
-
-📧 Email/SMS notifications for booking confirmations
-
-🤖 AI-powered feedback sentiment analysis
-
-🏢 Branches Available
-
-Noida
-
-Gurgaon
-
-Central Delhi
+## 🏢 **Branches Available**
+- **Noida**  
+- **Gurgaon**  
+- **Central Delhi**  
