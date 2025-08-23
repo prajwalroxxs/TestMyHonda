@@ -78,6 +78,5 @@ npm run dev
 - **Gurgaon**  
 - **Central Delhi**  
 
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e78112a-4a8d-4e3d-a456-21ff8bec49a0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b658bb24-2c8c-41fe-a559-fe4db4658d34" />
 
